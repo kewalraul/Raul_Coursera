@@ -1,1 +1,4 @@
-/* Add Author and Project Details here */
+Author: Kewal Raul
+Files Included : 
+   stats.c - Main File.
+   stats.h - Header Files.

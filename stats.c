@@ -9,13 +9,11 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file <stats.c> 
+ * @brief <Performs Sortig of Array and prints stats>
  *
- * <Add Extended Description Here>
- *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author <Kewal Raul>
+ * @date <4/23/2021>
  *
  */
 
@@ -34,10 +32,56 @@ void main() {
                               200, 122, 150, 90,   92,  87, 177, 244,
                               201,   6,  12,  60,   8,   2,   5,  67,
                                 7,  87, 250, 230,  99,   3, 100,  90};
-
-  /* Other Variable Declarations Go Here */
-  /* Statistics and Printing Functions Go Here */
+  
+  // Print the Array before Sorting
+  
+  // Sort the Array
+  
+  // Print Stats
 
 }
 
-/* Add other Implementation File Code Here */
+void swap (unsigned char *a, unsigned char *b){
+    
+    
+}
+
+void sort_array (unsigned char *test){
+    
+
+}
+
+unsigned char find_median (unsigned char *test){
+    
+
+    
+    return median;
+}
+
+unsigned char find_mean (unsigned char *test){
+    
+    
+    return mean;
+}
+
+unsigned char find_minimum (unsigned char *test){
+    
+
+    return min;
+}
+
+unsigned char find_maximmum (unsigned char *test){
+    
+
+    return max;
+}
+
+void print_array (unsigned char *test ){
+    
+}
+
+ void print_statistics(unsigned char *test ){
+   
+
+}
+ 
